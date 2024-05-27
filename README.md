@@ -1,4 +1,5 @@
 KARŞIT MADDE LABİRENTİ
+
 Bir labirent Lab[N][M] matrisi ile ifade edilmektedir. Labirentteki yollarda atomaltı parçacıklar vardır. Kullanıcı belirtilen giriş noktasından oyuna başlar ve çıkış noktasına doğru ilerler. Labirentin yollarından toplanan atomaltı parçacıklar kullanılarak karşıt hidrojen üretilecektir. Labirentte ilerlerken uyulması gereken kurallar ve labirentte bulunan parçacıklar aşağıda sıralanmıştır:
 1.	Labirentteki yollarda aşağıdaki parçacıklar bulunmaktadır.
 P+ 	: proton
